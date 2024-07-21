@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Github开源软件分享</title>
+    <link href="/posts/d66f37f7/"/>
+    <url>/posts/d66f37f7/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-阅读"><a href="#1-阅读" class="headerlink" title="1.阅读"></a>1.阅读</h1><p>阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</p><ul><li>自定义书源，自己设置规则，抓取网页数据，规则简单易懂，软件内有规则说明。</li><li>书源规则支持搜索及发现，所有找书看书功能全部自定义，找书更方便。</li><li>订阅内容,可以订阅想看的任何内容,看你想看。</li><li>支持替换净化，去除广告替换内容很方便。</li><li>支持本地TXT、EPUB阅读，手动浏览，智能扫描。</li><li>支持高度自定义阅读界面，切换字体、颜色、背景、行距、段距、加粗、简繁转换等。</li><li>软件开源，持续优化，无广告。</li><li><a href="https://github.com/gedoor/legado">点击访问阅读仓库</a></li><li><a href="https://legado.aoaostar.com/">点击访问阅读APP源 - AOAOSTAR</a></li></ul><h1 id="2-PicaComic"><a href="#2-PicaComic" class="headerlink" title="2.PicaComic"></a>2.PicaComic</h1><p>免费观漫软件，拥有大量的全彩和黑白漫画资源，emmmm，比如说18X。</p><ul><li><p>可以将喜欢的漫画作品进行离线缓存，方便无网络连接时进行阅读。</p></li><li><p>可以提供漫画更新的提醒功能，及时了解到喜欢的作品的最新章节。</p></li><li><p>软件提供无广告的阅读环境，专心阅读漫画，不会被广告弹窗打扰。</p></li><li><p><a href="https://github.com/wgh136/PicaComic">点击访问PicaComic仓库</a></p></li></ul><h1 id="3-Simple-live"><a href="#3-Simple-live" class="headerlink" title="3.Simple live"></a>3.Simple live</h1><p>简简单单的看直播，好用！</p><ul><li>支持Android、 iOS、 Windows 、 MacOS 、Linux 、Android TV 。</li><li>支持虎牙直播、斗鱼直播、哔哩哔哩直播以及抖音直播。</li><li><a href="https://github.com/xiaoyaocz/dart_simple_live">点击访问simple_live仓库</a></li></ul><h1 id="4-影视"><a href="#4-影视" class="headerlink" title="4.影视"></a>4.影视</h1><p>影视APP<del>是基于TVBOX二改来的一款影视盒子</del>,分为两个版本，一个是ok版，一个是fongmi版，两个版本数据互通，目前我个人使用的是OK版。</p><p>关于接口，打开饭总网站，提供多个接口可供选择。</p><blockquote><p>注：再次声明，影视不是tvbox！影视代码是由蜂蜜从无到有的！绝对不是从tvbox代码沿用！</p><p>来自-2024.7.13 影视TV TG频道</p></blockquote><ul><li>支持Android、Android TV 。</li><li>播放流畅度和清晰度可调。</li><li>简约洁净，没有广告，现在版本增加了AI去广告。</li><li>源更新比较快，资源也比较全。</li><li>可看IPTV。</li><li><a href="https://github.com/FongMi/Release">点击访问影视ok版仓库</a></li><li><a href="https://github.com/FongMi/Release/tree/fongmi">点击访问影视fongmi版仓库</a></li><li><a href="https://www.饭太硬.com/">点击访问饭太硬接口</a></li></ul><h1 id="5-gkd"><a href="#5-gkd" class="headerlink" title="5.gkd"></a>5.gkd</h1><p>搞快点搞快点搞快点！</p><p>基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用，用于跳软件开屏广告等。</p><ul><li>随时随地自定义设置跳广告规则。</li><li>APP随时使用无需连接互联网，也不用手机ROOT，从源头杜绝隐私泄露的可能。</li><li>无需复杂的设置就可以轻松跳过广告。</li><li><a href="https://github.com/gkd-kit/gkd">点击访问gkd仓库</a></li></ul><h1 id="6-UnblockNeteaseMusic"><a href="#6-UnblockNeteaseMusic" class="headerlink" title="6.UnblockNeteaseMusic"></a>6.UnblockNeteaseMusic</h1><p>一句话介绍：解锁网易云音乐客户端变灰歌曲~</p><ul><li><p>支援多个音源，替换变灰歌曲链接.</p></li><li><p>为请求增加 <code>X-Real-IP</code> 参数解锁海外限制，支持指定网易云服务器 IP，支持设置上游 HTTP &#x2F; HTTPS 代理。</p></li><li><p>完整的流量代理功能 (HTTP &#x2F; HTTPS)，可直接作为系统代理 (同时支持 PAC)。</p><blockquote><p>注：可能会存在失效问题，如失效，找fork修复版。</p></blockquote></li></ul><h2 id="（1）Windows"><a href="#（1）Windows" class="headerlink" title="（1）Windows"></a>（1）Windows</h2><ul><li><p>推荐直接下载releases版本，每次使用网易云之前先打开unblockneteasemusic，再打开网易云音乐。</p></li><li><p>有余力的可以安装node，然后参考网站的做法，我个人采用的是这种方法，每次使用只需要打开网易云就可以了。</p></li><li><blockquote><p>注：记得先安装证书ca.crt。</p></blockquote></li><li><p><a href="https://github.com/UnblockNeteaseMusic/server">点击访问UnblockNeteaseMusic</a></p></li></ul><h2 id="（2）安卓版本-杜比大喇叭β版"><a href="#（2）安卓版本-杜比大喇叭β版" class="headerlink" title="（2）安卓版本-杜比大喇叭β版"></a>（2）安卓版本-杜比大喇叭β版</h2><ul><li>需要root，安装lsposed框架，然后安装模块勾选。</li><li>不需要root，直接下载内嵌版。</li><li>请点击Actions，下载最新版本。</li><li><a href="https://github.com/nining377/dolby_beta">点击访问杜比大喇叭</a></li></ul><h2 id="（3）更省事版本-YesPlayMusic"><a href="#（3）更省事版本-YesPlayMusic" class="headerlink" title="（3）更省事版本-YesPlayMusic"></a>（3）更省事版本-YesPlayMusic</h2><ul><li><p>高颜值的第三方网易云播放器。</p></li><li><p>支持 UnblockNeteaseMusic，自动使用各类音源替换变灰歌曲链接 （网页版不支持）。</p></li><li><p>支持 Windows &#x2F; macOS &#x2F; Linux 。</p></li><li><p><a href="https://github.com/qier222/YesPlayMusic">点击访问YesPlayMusic</a></p></li></ul><h1 id="7-待续…"><a href="#7-待续…" class="headerlink" title="7.待续…"></a>7.待续…</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>自用分享</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>开源软件</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>自用网页工具分享</title>
+    <link href="/posts/da52ed99/"/>
+    <url>/posts/da52ed99/</url>
+    
+    <content type="html"><![CDATA[<h1 id="图片处理工具"><a href="#图片处理工具" class="headerlink" title="图片处理工具"></a>图片处理工具</h1><h2 id="1-Waifu2x"><a href="#1-Waifu2x" class="headerlink" title="1.Waifu2x"></a>1.Waifu2x</h2><p>Waifu2x对二次元图片的放大效果最好，采用人工智能技术，可以对图片进行无损放大处理。</p><p>主要包括：</p><ul><li>对照片进行无损放大和降噪，降噪功能也可以有效地去除图像中的噪声和干扰，使图像更加清晰、纯净。</li><li>主要用于漫画、动画截图、同人图、卡图、版权绘、海报等一切二次元图片。</li><li><a href="https://www.waifu2x.net/index.zh-CN.html">点击访问waifu2x</a></li></ul><h2 id="2-Remove-bg"><a href="#2-Remove-bg" class="headerlink" title="2.Remove bg"></a>2.Remove bg</h2><p>Remove bg是强大的在线工具，只需上传照片，它会自动去掉背景，留下清晰的主题。不再费时费力，几秒钟即可获得透明背景照片。</p><p>主要包括：</p><ul><li>支持多种图片格式作为输入，例如：JPEG、PNG、jfif 和 pjpeg 等图片格式。</li><li>简单使用，可以本地上传、粘贴图片，或者使用图片地址上传图片。</li><li>抠图的处理速度和效果都相对比较理想。</li><li>免费使用且无需注册。</li><li><a href="https://www.remove.bg/zh">点击访问Remove bg</a></li></ul><h2 id="3-Magic-Studio"><a href="#3-Magic-Studio" class="headerlink" title="3.Magic Studio"></a>3.Magic Studio</h2><p>Magic Studio 是由 AI 驱动的图像编辑和创建工具，它可以帮助用户自动编辑和创建图像。</p><p>主要包括：</p><ul><li>使用人工智能在几秒钟内模糊背景，识别并突出主体，让用户可以轻松提取主体和前景，并调整模糊效果。</li><li>快速移除图片中不需要的元素，为应用添加魔法效果。</li><li>在不损失质量的情况下放大图片，增强画质，最高可达 4K 分辨率。</li><li><a href="https://magicstudio.com/zh/magiceraser/">点击访问Magic Studio</a></li></ul><h2 id="4-在线PS"><a href="#4-在线PS" class="headerlink" title="4.在线PS"></a>4.在线PS</h2><p>基于html5技术开发的支持支持PSD, XCF, Sketch, XD和CDR、JPEG、PNG、RAW格式的免费在线高级图片编辑器。</p><p>主要包括：</p><ul><li>支持多种图片格式，比如JPG、PNG、GIF等，可以满足用户不同的需求。</li><li>操作界面简洁明了。</li><li><a href="https://ps.gitapp.cn/">点击访问在线PS（国外版）</a></li><li><a href="https://www.uupoop.com/#/">点击访问在线PS（国内UUPOOP）</a></li></ul><h1 id="PDF工具"><a href="#PDF工具" class="headerlink" title="PDF工具"></a>PDF工具</h1><h2 id="1-PDF24-Tools"><a href="#1-PDF24-Tools" class="headerlink" title="1.PDF24 Tools"></a>1.PDF24 Tools</h2><p>Magic Studio 是免费且易于使用的在线PDF工具。</p><p>主要包括：</p><ul><li>提供工具集合，可以让您更加有效率地处理PDF及其他类型文件，包含PDF合并、分割、压缩、编辑等多种功能。</li><li>网页版，意味着支持各种操作系统。</li><li>100%免费，没有任何人为限制。</li><li><a href="https://tools.pdf24.org/zh/">点击访问PDF24 Tools</a></li></ul><h1 id="IOS-旧版-APP"><a href="#IOS-旧版-APP" class="headerlink" title="IOS 旧版 APP"></a>IOS 旧版 APP</h1><h2 id="1-推荐工具"><a href="#1-推荐工具" class="headerlink" title="1.推荐工具"></a>1.推荐工具</h2><p>两个工具就不再介绍了，大佬们的网页写的很明白，包括如何使用以及问题的解决方法。</p><ul><li>工具一：免 iTunes 直接下载（优先）</li><li><a href="https://www.52pojie.cn/thread-1863801-1-1.html">点击访问工具一</a></li><li>工具二：iTunes 抓包下载</li><li><a href="https://www.52pojie.cn/thread-1756628-1-1.html">点击访问工具二</a></li></ul><h2 id="2-推荐应用版本"><a href="#2-推荐应用版本" class="headerlink" title="2.推荐应用版本"></a>2.推荐应用版本</h2><p>大佬持续更新。</p><ul><li>如果你正在为频繁杀后台而苦恼，那就改用老版本软件试试叭~<br>一般旧版软件的资源占用会更少，因而更流畅、更省电，而且有的广告也会更少（哭）~<br>甚至还能免费使用某些需要付费的 App 喔！如「Artstudio Pro」、「Notability」！！<br>所以快试试版本降级叭~<blockquote><p>引用自大佬前言。</p></blockquote></li></ul><ul><li><a href="https://qianling.pw/ios-app/">点击访问持续更新页面</a></li></ul><h1 id="待续…"><a href="#待续…" class="headerlink" title="待续…"></a>待续…</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>自用分享</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网页工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《四月是你的谎言》：青春的谎言与真实的成长</title>
+    <link href="/posts/8826a872/"/>
+    <url>/posts/8826a872/</url>
+    
+    <content type="html"><![CDATA[<h1 id="《四月是你的谎言》：青春的谎言与真实的成长"><a href="#《四月是你的谎言》：青春的谎言与真实的成长" class="headerlink" title="《四月是你的谎言》：青春的谎言与真实的成长"></a>《四月是你的谎言》：青春的谎言与真实的成长</h1><h2 id="一、基本信息"><a href="#一、基本信息" class="headerlink" title="一、基本信息"></a>一、基本信息</h2><p>《四月是你的谎言》是一部由日本漫画家新川直司创作的漫画作品，该作品凭借其深刻的情感描绘和细腻的人物刻画，赢得了广大读者的喜爱。随后，这部作品被改编为动画和舞台剧，同样收获了极高的评价和口碑。故事以音乐为纽带，串联起了一段关于青春、成长、梦想和爱情的感人故事，成为了一部令人难以忘怀的佳作。</p><h2 id="二、剧情简介"><a href="#二、剧情简介" class="headerlink" title="二、剧情简介"></a>二、剧情简介</h2><p>故事的主人公是有马公生，一位曾经的钢琴天才少年。然而，在他11岁那年，因母亲过世，他再也无法听到自己弹奏的琴声，从而陷入了深深的绝望和自闭之中。他的生活变得单调乏味，仿佛失去了所有的色彩。</p><p>然而，在公生14岁的春天，一个名叫宫园薰的少女闯入了他的世界。薰是一个性格自由奔放、才华横溢的小提琴手，她的出现像一缕阳光照亮了公生灰暗的世界。薰用她的热情和对音乐的热爱，重新点燃了公生对钢琴的热爱和追求。</p><p>然而，薰的身上却隐藏着一个巨大的秘密。她其实身患重病，时日无多。但为了完成与公生合奏的梦想，她选择了撒谎。她谎称自己喜欢公生的友人渡亮太，以此接近公生，并隐藏了自己对公生的感情和病情。她用自己的方式帮助公生走出阴影，重拾对音乐的热爱和信心。</p><p>在薰的鼓励和帮助下，公生开始尝试重新弹奏钢琴。他们一起参加了比赛，一起经历了青春的挫折和成长。然而，在公生即将迎来音乐生涯的重要时刻时，薰却因为病情恶化而离开了人世。她的离去让公生痛苦不已，但也让他更加深刻地理解了音乐和人生的意义。</p><p>《四月是你的谎言》的剧情跌宕起伏，情感真挚动人。它让我们看到了青春的美好和残酷，也让我们看到了人与人之间真挚的情感和付出。薰虽然离去了，但她的爱和音乐永远留在了公生的心中，成为了他人生中最宝贵的财富。</p><p>这部作品以其独特的叙事方式和深刻的情感描绘，触动了无数观众的心灵。它让我们重新审视自己的青春和成长经历，也让我们更加珍惜身边的人和事。在这个充满谎言和虚伪的世界里，《四月是你的谎言》用真挚的情感和深刻的意义告诉我们：真正的青春和成长是需要付出和坚持的，而真正的爱情则是需要真诚和付出的。</p><img src="/posts/8826a872/1.jpg" class title="《四月是你的谎言》：青春的谎言与真实的成长">]]></content>
+    
+    
+    <categories>
+      
+      <category>动漫</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>四月是你的谎言</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《侧耳倾听》（日文名：耳をすませば）</title>
+    <link href="/posts/5bf87866/"/>
+    <url>/posts/5bf87866/</url>
+    
+    <content type="html"><![CDATA[<h1 id="《侧耳倾听》（日文名：耳をすませば）"><a href="#《侧耳倾听》（日文名：耳をすませば）" class="headerlink" title="《侧耳倾听》（日文名：耳をすませば）"></a>《侧耳倾听》（日文名：耳をすませば）</h1><h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><p>《侧耳倾听》（日文名：耳をすませば），根据柊葵的同名漫画改编，是由近藤喜文担任导演，宫崎骏、柊葵编剧，本名阳子、小林桂树、高山南、高桥一生等主演的日本动画电影。该影片于1995年7月15日在日本首映，2002年11月21日在中国台湾上映。</p><p>该片讲述了男女主角互相勉励互相学习，为各自的理想而奋斗，叙述了少男少女间清纯真挚感人的恋爱故事。</p><h2 id="剧情简介"><a href="#剧情简介" class="headerlink" title="剧情简介"></a>剧情简介</h2><p>小女孩月岛雯，正在念中学，像每个临将毕业的学生一样，她也面临着今后的抉择。但是她并不是一个沉迷于功课的女孩，她喜欢看更多的课外书，并把自己的感受写下来。</p><p>有一天，雯给当图书馆管理员的爸爸送盒饭，半路上遇见一只胖猫，居然像人一样搭坐电车。她好奇的一路追踪过去，于是在半山坡发现了一家古老而精致的玩具店——“地球屋”。放在店里桌上的猫玩偶男爵闪烁着神奇的光晕，令她深深着迷。</p><p>回家的路上，一个男孩送回了她遗忘的便当。而先前失踪的那只胖猫，则坐在男孩自行车的后坐上。</p><p>原来男孩自己在学做小提琴，并且希望雯能唱她正在翻译的一首英文歌：约翰·丹佛的《COUNTRY ROAD》，自己用小提琴来为她伴奏。这时候西司朗和另外两个老乐手回来了，于是在“地球屋”他们演奏起了自己的乐器。这个温馨的小型演唱会，最后在大家快乐的掌声中结束。</p><p>经过互相的介绍，雯认识了这个学小提琴的男孩——天泽圣司。圣司对雯倾诉了自己想去意大利古老的制琴学校学习的梦想。而雯被玩具店的猫男爵的爱情故事所启发，也决定写关于猫男爵的作品——相爱的两个人却因为种种误解而不能在一起的故事。</p><p>雯和圣司两个人都在面临着毕业抉择的十字路口，却坚定的选择了自己所向往的道路。顶住学业和考试的重压，雯终于完成了小说，并带给玩具店的老爷爷看。老爷爷深受感动，并讲述了猫男爵真正的故事。原来猫男爵的故事恰恰和雯所写的故事吻合。雯为这一切幻境般的经历而陶醉。</p><p>而圣司也终于得到家里父母的理解，终于可以去意大利学习造琴技艺。最后在那个日出时分，在明净晴朗的天空下，从意大利回来的圣司勇敢的向雯告白，而雯幸福地答应了。</p><img src="/posts/5bf87866/1.jpg" class title="《侧耳倾听》（日文名：耳をすませば）">]]></content>
+    
+    
+    <categories>
+      
+      <category>动漫</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>侧耳倾听</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
