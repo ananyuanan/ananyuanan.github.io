@@ -18,8 +18,8 @@
   
     <meta name="description" content="个人博客">
 <meta property="og:type" content="website">
-<meta property="og:title" content="归档">
-<meta property="og:url" content="http://a1993.cn/archives/index.html">
+<meta property="og:title" content="友链">
+<meta property="og:url" content="http://a1993.cn/links/index.html">
 <meta property="og:site_name" content="awlyu-Blog-闲言碎语">
 <meta property="og:description" content="个人博客">
 <meta property="og:locale" content="zh_CN">
@@ -28,7 +28,7 @@
   
   
   
-  <title>归档 - awlyu-Blog-闲言碎语</title>
+  <title>友链 - awlyu-Blog-闲言碎语</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -176,7 +176,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="归档"></span>
+            <span id="subtitle" data-typed-text="友情链接"></span>
           
         </div>
 
@@ -203,41 +203,65 @@
               <div class="col-12 col-md-10 m-auto">
                 
 
-<div class="list-group">
-  <p class="h4">共计 4 篇文章</p>
-  <hr>
-  
+<div class="row links">
   
     
-      
-      <p class="h5">2024</p>
-    
-    <a href="/posts/c669ccd/" class="list-group-item list-group-item-action">
-      <time>08-09</time>
-      <div class="list-group-item-title">ios相关</div>
-    </a>
-  
-    
-    <a href="/posts/54124696/" class="list-group-item list-group-item-action">
-      <time>07-22</time>
-      <div class="list-group-item-title">node安装及环境配置</div>
-    </a>
-  
-    
-    <a href="/posts/d66f37f7/" class="list-group-item list-group-item-action">
-      <time>07-03</time>
-      <div class="list-group-item-title">Github开源软件分享</div>
-    </a>
-  
-    
-    <a href="/posts/da52ed99/" class="list-group-item list-group-item-action">
-      <time>07-03</time>
-      <div class="list-group-item-title">自用各类工具分享</div>
-    </a>
+    <div class="card col-lg-4 col-md-6 col-sm-12">
+      <a href="https://github.com/awlyu" class="card-body hover-with-bg" target="_blank" rel="noopener">
+        <div class="card-content">
+          
+            <div class="link-avatar my-auto">
+              <img src="/img/favicon.png" srcset="/img/loading.gif" lazyload alt="我的GitHub 仓库"
+                   onerror="this.onerror=null; this.src=this.srcset='/img/avatar.png'"/>
+            </div>
+          
+          <div class="link-text">
+            <div class="link-title">我的GitHub 仓库</div>
+            <div class="link-intro">GitHub 仓库</div>
+          </div>
+        </div>
+      </a>
+    </div>
   
 </div>
 
 
+  <!-- Custom -->
+  <div class="custom mx-auto">
+    <hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：Anna</li><li>简介：博客</li><li>链接：https://a1993.cn</li><li>图片：https://hexo.fluid-dev.com/img/favicon.png</li></ul>
+  </div>
+
+
+
+  
+  
+    <article id="comments" lazyload>
+      
+  <div id="valine"></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#valine', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/valine/1.5.1/Valine.min.js', function() {
+        var options = Object.assign(
+          {"appId":"Baj0Eh2BzEOinqF9pG5pGZny-gzGzoHsz","appKey":"yBlqQWPQpgXuO3OG4aT6DtF4","path":"window.location.pathname","placeholder":null,"avatar":"retro","meta":["nick","mail","link"],"requiredFields":[],"pageSize":10,"lang":"zh-CN","highlight":false,"recordIP":false,"serverURLs":"","emojiCDN":null,"emojiMaps":null,"enableQQ":false},
+          {
+            el: "#valine",
+            path: window.location.pathname
+          }
+        )
+        new Valine(options);
+        Fluid.utils.waitElementVisible('#valine .vcontent', () => {
+          var imgSelector = '#valine .vcontent img:not(.vemoji)';
+          Fluid.plugins.imageCaption(imgSelector);
+          Fluid.plugins.fancyBox(imgSelector);
+        })
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
+
+    </article>
+  
 
 
 
